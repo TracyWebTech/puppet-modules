@@ -1,0 +1,30 @@
+[submodule "virtualenv"]
+	path = virtualenv
+	url = git@github.com:TracyWebTech/puppet-virtualenv.git
+[submodule "users"]
+	path = users
+	url = git@github.com:TracyWebTech/puppet-users.git
+[submodule "builddep"]
+	path = builddep
+	url = git@github.com:TracyWebTech/puppet-builddep.git
+[submodule "django"]
+	path = django
+	url = git@github.com:TracyWebTech/puppet-django.git
+[submodule "nginx"]
+	path = nginx
+	url = git@github.com:TracyWebTech/puppet-nginx.git
+[submodule "opt-install"]
+	path = opt-install
+	url = git@github.com:TracyWebTech/puppet-opt-install.git
+[submodule "postfix"]
+	path = postfix
+	url = git@github.com:TracyWebTech/puppet-postfix.git
+[submodule "serverdensity"]
+	path = serverdensity
+	url = git@github.com:TracyWebTech/puppet-serverdensity.git
+[submodule "sshd"]
+	path = sshd
+	url = git@github.com:TracyWebTech/puppet-sshd.git
+[submodule "supervisor"]
+	path = supervisor
+	url = git@github.com:TracyWebTech/puppet-supervisor.git
