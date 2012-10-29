@@ -28,3 +28,6 @@
 [submodule "supervisor"]
 	path = supervisor
 	url = git@github.com:TracyWebTech/puppet-supervisor.git
+[submodule "ntp"]
+	path = ntp
+	url = https://github.com/TracyWebTech/puppet-ntp
