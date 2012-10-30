@@ -28,3 +28,12 @@
 [submodule "supervisor"]
 	path = supervisor
 	url = git@github.com:TracyWebTech/puppet-supervisor.git
+[submodule "ps1"]
+	path = ps1
+	url = git@github.com:TracyWebTech/puppet-ps1.git
+[submodule "vim"]
+	path = vim
+	url = git@github.com:TracyWebTech/puppet-vim.git
+[submodule "locale"]
+	path = locale
+	url = git@github.com:arloc/puppet-locale.git
