@@ -37,3 +37,6 @@
 [submodule "locale"]
 	path = locale
 	url = git@github.com:arloc/puppet-locale.git
+[submodule "ntp"]
+	path = ntp
+	url = https://github.com/TracyWebTech/puppet-ntp
