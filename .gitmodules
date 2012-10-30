@@ -36,7 +36,7 @@
 	url = git@github.com:TracyWebTech/puppet-vim.git
 [submodule "locale"]
 	path = locale
-	url = git@github.com:arloc/puppet-locale.git
+	url = git@github.com:TracyWebTech/puppet-locale.git
 [submodule "ntp"]
 	path = ntp
 	url = https://github.com/TracyWebTech/puppet-ntp
